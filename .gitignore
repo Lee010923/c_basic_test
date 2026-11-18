@@ -1,0 +1,36 @@
+# ===== Visual Studio 生成物 =====
+.vs/
+x64/
+Debug/
+Release/
+ipch/
+
+# ===== 本机用户设置（不应该进仓库）=====
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.ncb
+*.aps
+
+# ===== 编译中间文件与产物 =====
+*.obj
+*.pch
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.recipe
+*.log
+*.tlh
+*.tli
+*.FileListAbsolute.txt
+
+# ===== 系统 / 编辑器杂物 =====
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+.idea/
+*.bak
